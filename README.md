@@ -1,4 +1,6 @@
 # Enhancements Tracking and Backlog
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkonveyor%2Fenhancements.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkonveyor%2Fenhancements?ref=badge_shield)
+
 
 Enhancement tracking repository for Konveyor.
 
@@ -60,3 +62,14 @@ Please comment on the enhancement issue to:
 - request a review or clarification on the process
 - update status of the enhancement effort
 - link to relevant issues in other repos
+
+## Roadmap
+The community maintains a [ROADMAP.md](ROADMAP.md) to communicate what's next for considerations to work.
+* For new ideas, please open Request For Enhancements (RFEs) via https://github.com/konveyor/enhancements/issues/new
+
+## Code of Conduct
+Refer to Konveyor's Code of Conduct [here](https://github.com/konveyor/community/blob/main/CODE_OF_CONDUCT.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkonveyor%2Fenhancements.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkonveyor%2Fenhancements?ref=badge_large)
